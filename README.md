@@ -8,7 +8,7 @@ O propósito deste repositório é uso pessoal, com menor dependência do própr
 **Note:** Voce precisa de uma key da openai para usar o codigo.
 
 
-# Uso do Scripy
+# Uso do Script
 
 *Assim que clonado o repositorio, deve ser configurado seguintes pontos.*
 
